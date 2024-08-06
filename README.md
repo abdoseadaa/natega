@@ -2,16 +2,12 @@
 
 # Natega 
 
-
+should put natega.grades.json in the following path "./assets/natega.grades.json" in order to work
 
 
 ## Authors
 
 - [@abdoseadaa](https://x.com/abdoseadaa) 
-
-## Repository
-
-[Repository](https://gitlab.com/abdom.seada/gadwal)
 
 
 ## Summary
